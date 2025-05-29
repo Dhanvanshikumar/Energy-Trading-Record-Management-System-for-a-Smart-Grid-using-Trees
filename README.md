@@ -1,6 +1,6 @@
-# Energy-Trading-Record-Management-System-for-a-Smart-Grid-using-Trees
+# Energy-Trading-Record-Management-System-for-a-Smart-Grid-using-Trees (Using B+ Trees)
 The goal is to develop a software program that manages energy trading transactions in a smart
-grid environment using a tree-based data structure. Energy trading transactions occur when
+grid environment using B+ Trees. Energy trading transactions occur when
 energy producers (sellers) sell energy to consumers (buyers) at specified rates. These
 transactions need to be accurately recorded, tracked, and analyzed to optimize energy trading
 operations, manage financial records, and enable efficient trading management within the grid.
